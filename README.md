@@ -1,7 +1,7 @@
-Hi👋, I'm University student in Korea, my majors are physical education and computer.<br>
-I'm living in Suwon, Korea, welcome to my GitHub bio.
+Hi welcome to my page!👋
+I'm University student in Korea, my majors are physical education and computer.<br>
 
-🧑‍💻 I want to be a big data and AI developer.<br>
+🧑‍💻 I'm getting ready for Data engineer.<br>
 -also I'm interested in healthcare
 
 ✈️ I love to work out, especially runnung and Home training.
