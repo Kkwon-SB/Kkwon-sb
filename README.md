@@ -1,6 +1,6 @@
 welcome to my page 👋!
 
-💬 my kakao : kkwon_sb
+💬 my kakao :  kkwon_sb
 <br>
 ## About Me
 
