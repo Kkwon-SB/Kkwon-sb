@@ -5,7 +5,7 @@ and I preparing data engineer In Korea
 
 💬 my kakao :  kkwon_sb
 <br><br>
-### About Me
+### About Me 🗺
 
 - 클라우드 환경에서 Hadoop, Hive 미들웨어를 구축 및 데이터 분산 처리 경험이 있습니다.
 - 빅데이터를 다루는 기술에 관심 있습니다. 현재 빅데이터 엔지니어를 목표로 책과 강의를 통해 필요 역량을 쌓고 있습니다.
