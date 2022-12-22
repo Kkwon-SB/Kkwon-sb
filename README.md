@@ -1,4 +1,7 @@
 welcome to my page 👋!
+I'm interested in Big data & Big data flatform :)
+<br>
+and I preparing data engineer In Korea
 
 💬 my kakao :  kkwon_sb
 <br>
