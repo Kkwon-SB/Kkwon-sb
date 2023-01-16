@@ -12,14 +12,13 @@ and I preparing data engineer In Korea
 - 스스로에게 **why** 질문을 하며, 더 좋은 결과를 만들기 위해 객관적으로 문제를 바라볼 수 있도록 노력합니다.
 
 ### Tech stack 📚
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-python-yellow)
+![](https://img.shields.io/badge/-python-orange)
 ![](https://img.shields.io/badge/-SQL-blue)
-![](https://img.shields.io/badge/-Hadoop-9cf)
+![](https://img.shields.io/badge/-Hadoop-yellow)
 ![](https://img.shields.io/badge/-Hive-orange)
 ![](https://img.shields.io/badge/-Data--Analysis-blueviolet)
+![](https://img.shields.io/badge/-ETL-gray)
+
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AWS-ec2-orange)
-
-
-
-
