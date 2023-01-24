@@ -22,3 +22,11 @@ and I preparing data engineer In Korea
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AWS-ec2-orange)
+
+
+<p>
+  
+<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/python-icon.svg">
+<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
+
+</p>
