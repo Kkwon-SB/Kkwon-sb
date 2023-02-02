@@ -1,3 +1,5 @@
+데이터엔지니어를 준비하고 있습니다 :)
+-----------------------------------
 welcome to my page 👋!
 I'm interested in Big data & Big data flatform :)
 <br>
