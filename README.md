@@ -1,7 +1,7 @@
 주니어 데이터엔지니어 입니다 🤗
 -----------------------------------
 welcome to my page 👋!
-I'm interested in Big data & Big data flatform :)
+I'm interested in Data Pipiline & Data flatform :)
 <br>
 and I preparing data engineer In Korea
 
