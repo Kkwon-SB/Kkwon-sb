@@ -18,6 +18,9 @@ and I preparing data engineer In Korea
 ![](https://img.shields.io/badge/-Hadoop-yellow)
 ![](https://img.shields.io/badge/-Hive-orange)
 
+![](https://img.shields.io/badge/-HTML5-orange)
+![](https://img.shields.io/badge/-CSS3-orange)
+![](https://img.shields.io/badge/-jvaScript-orange)
 ![](https://img.shields.io/badge/-Data--Analysis-blueviolet)
 ![](https://img.shields.io/badge/-Data--Pipeline-blueviolet)
 ![](https://img.shields.io/badge/-Data--Crawling-blueviolet)
