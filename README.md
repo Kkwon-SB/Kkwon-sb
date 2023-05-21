@@ -1,7 +1,7 @@
 welcome to my page 👋!
 I'm interested in Data Pipiline & Data flatform :)
 <br>
-and I preparing Infra engineer In Korea
+and I preparing Infra engineer
 
 💬 my kakao :  kkwon_sb
 <br><br>
