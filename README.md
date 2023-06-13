@@ -1,9 +1,9 @@
-welcome to my page 👋!
-I'm interested in Data Pipiline & Data flatform :)
+welcome to my page👋
+I'm interested in Data Infra & Data flatform :)
 <br>
 and I preparing Data & Infra engineer
 
-💬 my kakao :  kkwon_sb
+💬 my kakao ID :  kkwon_sb
 <br><br>
 ### About Me 🗺
 
